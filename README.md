@@ -1,6 +1,6 @@
 # A/B-тест: Обновление списка рекламы от партнеров в Marketpele Feed
 
-[Презентация](White and Blue Modern Startup Pitch Deck Presentation.pdf)
+[Смотреть презентацию (PDF)](Marketpeel_Presentation.pdf)
 
 > **Заказчик:** Команда Маркетинга (издательская платформа)  
 > **Срок:** 10 дней  
