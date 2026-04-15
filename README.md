@@ -1,5 +1,7 @@
 # A/B-тест: Обновление списка рекламы от партнеров в Marketpele Feed
 
+[Презентация](White and Blue Modern Startup Pitch Deck Presentation.pdf)
+
 > **Заказчик:** Команда Маркетинга (издательская платформа)  
 > **Срок:** 10 дней  
 > **Стек:** Python, pandas, scipy, statsmodels, Google Colab, Git  
